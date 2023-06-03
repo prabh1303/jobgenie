@@ -3,6 +3,5 @@
 </div>
 
 
-## <mark style="background-color: white; color: black;"><b>Demo:</b></mark>  </>
 This project is created using HTML, CSS and Django
 
